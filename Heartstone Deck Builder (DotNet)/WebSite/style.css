@@ -1,0 +1,78 @@
+﻿
+#buttonsSide{
+    float:right;
+}
+
+#container{
+    padding-top:60px;
+    position:relative;
+    width:100%;
+}
+
+#cards{
+    position:absolute;
+    top:100%;
+    left:5%;
+    width:80%;
+    height:auto;
+    margin:0px;
+}
+
+#deckDetails{
+    clear:both;
+    padding-bottom:5%;
+}
+
+#CurrentDeck{
+    position:absolute;
+    right:0%;
+    max-width:25%;
+    max-height:75%;
+    overflow-y:scroll;
+}
+
+#anotherContainer{
+    float:right;
+}
+
+.Hidden{
+    display:none;
+}
+
+.imageStyle
+{
+   height:auto;
+   width:20%;
+   margin: 0px;
+   padding: 0px;
+}
+.arrowStyleLeft
+{
+    position:absolute;
+    top:48%;
+    left:-6%;
+    height:auto;
+    width:5%;
+}
+.arrowStyleRight
+{    
+    position:absolute;
+    left:80%;
+    top:48%;
+    height:auto;
+    width:5%;
+}
+.classButton{
+    width:8%;
+    height:auto;
+}
+
+.dataGridImg{
+    width:20px;
+    height:20px;
+}
+
+
+
+
+
